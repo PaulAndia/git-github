@@ -14,6 +14,8 @@ Esta es mi 1era contribución en este repo.
 
 Un commit más desde mi cuenta de github
 
+UNA ACTUALIZACIÓN MÁS desde cuenta github.
+
 ## lista de ALIAS para usar en un .zshrc 
 ```
 # Git
