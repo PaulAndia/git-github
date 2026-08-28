@@ -10,6 +10,8 @@ Los proyectos son los siguientes:
 
 este es un cambio desde  la rama: mau_dev blabla agrego más cosas desde local
 
+Esta es mi 1era contribución en este repo.
+
 ## lista de ALIAS para usar en un .zshrc 
 ```
 # Git
