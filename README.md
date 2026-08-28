@@ -14,7 +14,7 @@ Esta es mi 1era contribución en este repo.
 
 Un commit más desde mi cuenta de github
 
-Cambios nuevos desde mi rama local develope01 
+Cambios nuevos desde mi rama local develope01 v.3
 
 ## lista de ALIAS para usar en un .zshrc 
 ```
