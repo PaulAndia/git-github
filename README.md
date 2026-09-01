@@ -17,6 +17,8 @@ Un commit más desde mi cuenta de github
 Cambios nuevos desde mi rama local develope01 v.3 realizados una vez mas
 UNA ACTUALIZACIÓN MÁS desde cuenta github.
 
+Cambios desde la web 
+
 ## lista de ALIAS para usar en un .zshrc 
 ```
 # Git
